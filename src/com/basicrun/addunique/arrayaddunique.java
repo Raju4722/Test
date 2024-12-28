@@ -2,7 +2,7 @@ package com.basicrun.addunique;
 
 public class arrayaddunique {
 	public static void main(String[] args) {
-		int[] abc = { 1, 2, 3, 4, 1, 2, 3 };
+		int[] abc =  { 1, 2, 3, 4, 1, 2, 3 };
 		int addunique = addunique(abc);
 
 		System.out.println(addunique);
